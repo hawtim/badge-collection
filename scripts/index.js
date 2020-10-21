@@ -11,8 +11,8 @@ function buildMenu() {
 
 `
   Object.keys(menu).forEach(item => {
-    const text = menu[item].split(' ')[1]
-    categoryText +=`- [${menu[item]}](#-${text}-)
+    const text = menu[item].split(' ').join('-')
+    categoryText +=`- [${menu[item]}](#-${text})
 `
   })
   return categoryText
