@@ -13,4 +13,3 @@ module.exports = {
   streaming: require('./streaming'),
   workspace: require('./workspace')
 }
-

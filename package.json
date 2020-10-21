@@ -2,10 +2,11 @@
   "name": "badge-collection",
   "version": "1.0.0",
   "description": "收集各种有意思的徽章，帮助你创建更加好看的 `README.md`，查看我的[示例](https://github.com/hawtim/hawtim)，欢迎 PR！",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node scripts/index.js"
+    "lint": "npx prettier --write .",
+    "build-ftb": "node scripts/index.js for-the-badge",
+    "build-default": "node scripts/index.js",
+    "build": "npm run build-default && npm run build-ftb"
   },
   "repository": {
     "type": "git",
