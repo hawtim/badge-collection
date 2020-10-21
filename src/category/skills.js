@@ -59,7 +59,15 @@ module.exports = [
       elixir: 'elixir-4B275F.svg?logo=elixir&logoColor=white',
       markdown: 'markdown-000000.svg?logo=markdown&logoColor=white',
       unity: 'unity-100000.svg?logo=unity&logoColor=white',
-      sap: 'sap-0FAAFF?logo=sap&logoColor=white'
+      sap: 'sap-0FAAFF?logo=sap&logoColor=white',
+      vercel: 'vercel-333?logo=vercel'
+    }
+  },
+  {
+    name: '设计',
+    badges: {
+      photoshop: 'photoshop-333?logo=adobe-photoshop',
+      sketch: 'sketch-333?logo=sketch'
     }
   },
   {
