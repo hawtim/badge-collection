@@ -41,7 +41,7 @@ module.exports = [
       angular: 'angular-DD0031.svg?logo=angular&logoColor=white',
       angular: 'angular.js-E23237.svg?logo=angularjs&logoColor=white',
       material: 'material%20ui-0081CB.svg?logo=material-ui&logoColor=white',
-      bootstrap: 'bootstrap-563D7C.svg?logo=bootstrap&logoColor=white  ',
+      bootstrap: 'bootstrap-563D7C.svg?logo=bootstrap&logoColor=white',
       jquery: 'jquery-0769AD.svg?logo=jquery&logoColor=white',
       tailwindcss: 'tailwindcss-38B2AC.svg?logo=tailwind-css&logoColor=white',
       django: 'django-092E20.svg?logo=django&logoColor=white',

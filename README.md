@@ -151,7 +151,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/vuejs-35495e.svg?logo=vue.js&logoColor=4FC08D"/> | `![vuejs](https://img.shields.io/badge/vuejs-35495e.svg?logo=vue.js&logoColor=4FC08D)`
 <img src="https://img.shields.io/badge/angular.js-E23237.svg?logo=angularjs&logoColor=white"/> | `![angular](https://img.shields.io/badge/angular.js-E23237.svg?logo=angularjs&logoColor=white)`
 <img src="https://img.shields.io/badge/material%20ui-0081CB.svg?logo=material-ui&logoColor=white"/> | `![material](https://img.shields.io/badge/material%20ui-0081CB.svg?logo=material-ui&logoColor=white)`
-<img src="https://img.shields.io/badge/bootstrap-563D7C.svg?logo=bootstrap&logoColor=white  "/> | `![bootstrap](https://img.shields.io/badge/bootstrap-563D7C.svg?logo=bootstrap&logoColor=white  )`
+<img src="https://img.shields.io/badge/bootstrap-563D7C.svg?logo=bootstrap&logoColor=white"/> | `![bootstrap](https://img.shields.io/badge/bootstrap-563D7C.svg?logo=bootstrap&logoColor=white)`
 <img src="https://img.shields.io/badge/jquery-0769AD.svg?logo=jquery&logoColor=white"/> | `![jquery](https://img.shields.io/badge/jquery-0769AD.svg?logo=jquery&logoColor=white)`
 <img src="https://img.shields.io/badge/tailwindcss-38B2AC.svg?logo=tailwind-css&logoColor=white"/> | `![tailwindcss](https://img.shields.io/badge/tailwindcss-38B2AC.svg?logo=tailwind-css&logoColor=white)`
 <img src="https://img.shields.io/badge/django-092E20.svg?logo=django&logoColor=white"/> | `![django](https://img.shields.io/badge/django-092E20.svg?logo=django&logoColor=white)`
