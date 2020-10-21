@@ -21,7 +21,7 @@
 
 - [📱 联系方式](#-联系方式)
 - [🤝 群组会议](#-群组会议)
-- [🧍‍♂️🧍‍♀️ 社交媒体](#-社交媒体)
+- [🌐 社交媒体](#-社交媒体)
 - [🛒 App商店](#-App商店)
 - [💻 操作系统](#-操作系统)
 - [📝 博客](#-博客)
@@ -78,7 +78,7 @@ Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white" /> | `![playstation](https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white)`
 <img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" /> | `![xbox](https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white)`
-<img src="https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white"" /> | `![Switch](https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white")`
+<img src="https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white" /> | `![Switch](https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white)`
 <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /> | `![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)`
 <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" /> | `![counter strike](https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike)`
 <img src="https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?&style=for-the-badge&logo=itch.io&logoColor=white" /> | `![Itch.io](https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?&style=for-the-badge&logo=itch.io&logoColor=white)`
@@ -104,7 +104,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/windows%2095-008080?logo=windows-95&logoColor=white&style=for-the-badge" /> | `![windows 95](https://img.shields.io/badge/windows%2095-008080?logo=windows-95&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/windows%20xp-003399?logo=windows-xp&logoColor=white&style=for-the-badge" /> | `![windows xp](https://img.shields.io/badge/windows%20xp-003399?logo=windows-xp&logoColor=white&style=for-the-badge)`
 
-## 🧍‍♂️🧍‍♀️ 社交媒体
+## 🌐 社交媒体
 
 Badge | Uri
 ------------ | -------------
@@ -142,9 +142,9 @@ Badge | Uri
 
 Badge | Uri
 ------------ | -------------
-<img src="https://img.shields.io/badge/youtube%20gaming-FF0000?logo=youtube-gaming&logoColor=white&style=for-the-badge"" /> | `![youtube](https://img.shields.io/badge/youtube%20gaming-FF0000?logo=youtube-gaming&logoColor=white&style=for-the-badge")`
+<img src="https://img.shields.io/badge/youtube%20gaming-FF0000?logo=youtube-gaming&logoColor=white&style=for-the-badge" /> | `![youtube](https://img.shields.io/badge/youtube%20gaming-FF0000?logo=youtube-gaming&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" /> | `![twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)`
-<img src="https://img.shields.io/badge/facebook%20gaming-005FED?logo=facebook-gaming&logoColor=white&style=for-the-badge"" /> | `![facebook](https://img.shields.io/badge/facebook%20gaming-005FED?logo=facebook-gaming&logoColor=white&style=for-the-badge")`
+<img src="https://img.shields.io/badge/facebook%20gaming-005FED?logo=facebook-gaming&logoColor=white&style=for-the-badge" /> | `![facebook](https://img.shields.io/badge/facebook%20gaming-005FED?logo=facebook-gaming&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/Crunchyroll-F47521?logo=Crunchyroll&logoColor=white&style=for-the-badge" /> | `![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?logo=Crunchyroll&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white&style=for-the-badge" /> | `![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white&style=for-the-badge)`
 

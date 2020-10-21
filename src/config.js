@@ -3,7 +3,7 @@ module.exports = {
   menu: {
     contact: '📱 联系方式',
     group: '🤝 群组会议',
-    social: '🧍‍♂️🧍‍♀️ 社交媒体',
+    social: '🌐 社交媒体',
     store: '🛒 App商店',
     os: '💻 操作系统',
     blog: '📝 博客',
