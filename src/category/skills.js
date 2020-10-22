@@ -48,7 +48,21 @@ module.exports = [
       rails: 'rails-CC0000.svg?logo=ruby-on-rails&logoColor=white',
       laravel: 'laravel-FF2D20.svg?logo=laravel&logoColor=white',
       spring: 'spring-6DB33F.svg?logo=spring&logoColor=white',
-      flask: 'flask-000.svg?logo=flask&logoColor=white'
+      flask: 'flask-000.svg?logo=flask&logoColor=white',
+      sencha: 'sencha-86BC40?logo=sencha&logoColor=white'
+    }
+  },
+  {
+    name: '工作流',
+    badges: {
+      IntelliJ: 'IntelliJ%20IDEA-black?logo=intellij-idea&logoColor=white',
+      Eclipse: 'Eclipse-2C2255?logo=eclipse&logoColor=white',
+      VSCode: 'VSCode-007ACC?logo=visual-studio-code&logoColor=white',
+      markdown: 'markdown-000000.svg?logo=markdown&logoColor=white',
+      Docker: 'Docker-2496ED?logo=docker&logoColor=white',
+      BitBucket: 'BitBucket-darkblue?logo=bitbucket',
+      Git: 'git-black?logo=git',
+      gitlab: 'gitlab-330f63.svg?logo=gitlab&logoColor=white'
     }
   },
   {
@@ -57,10 +71,14 @@ module.exports = [
       'xamarin forms':
         'xamarin%20forms-3498DB.svg?logo=xamarin&logoColor=white',
       elixir: 'elixir-4B275F.svg?logo=elixir&logoColor=white',
-      markdown: 'markdown-000000.svg?logo=markdown&logoColor=white',
       unity: 'unity-100000.svg?logo=unity&logoColor=white',
       sap: 'sap-0FAAFF?logo=sap&logoColor=white',
-      vercel: 'vercel-333?logo=vercel'
+      vercel: 'Vercel-333?logo=vercel',
+      Ionic: 'Ionic-3880FF?logo=ionic&logoColor=white',
+      NestJS: 'NestJS-E0234E?logo=nestjs&logoColor=white',
+      Firebase: 'Firebase-FFCA28?logo=firebase&logoColor=white',
+      JIRA: 'JIRA-0052CC?logo=jira',
+      JFrog: 'JFrog-41BF47?logo=jfrog&logoColor=white'
     }
   },
   {
@@ -76,7 +94,9 @@ module.exports = [
       'Google Cloud': 'Google%20Cloud-4285F4?logo=google-cloud&logoColor=white',
       'Amazon AWS': 'Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white',
       'Microsoft Azure':
-        'Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white'
+        'Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white',
+      'Oracle Cloud':
+        'Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white'
     }
   },
   {
@@ -107,6 +127,8 @@ module.exports = [
         'Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white',
       'Microsoft Visio':
         'Microsoft%20Visio-3955A3?logo=microsoft-visio&logoColor=white',
+      'Microsoft SQL Server':
+        'SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white',
       Microsoft: 'Microsoft-666666?logo=microsoft&logoColor=white'
     }
   }

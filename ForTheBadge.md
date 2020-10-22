@@ -159,6 +159,20 @@ Badge | Uri
 <img src="https://img.shields.io/badge/laravel-FF2D20.svg?logo=laravel&logoColor=white&style=for-the-badge"/> | `![laravel](https://img.shields.io/badge/laravel-FF2D20.svg?logo=laravel&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/spring-6DB33F.svg?logo=spring&logoColor=white&style=for-the-badge"/> | `![spring](https://img.shields.io/badge/spring-6DB33F.svg?logo=spring&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/flask-000.svg?logo=flask&logoColor=white&style=for-the-badge"/> | `![flask](https://img.shields.io/badge/flask-000.svg?logo=flask&logoColor=white&style=for-the-badge)`
+<img src="https://img.shields.io/badge/sencha-86BC40?logo=sencha&logoColor=white&style=for-the-badge"/> | `![sencha](https://img.shields.io/badge/sencha-86BC40?logo=sencha&logoColor=white&style=for-the-badge)`
+### 工作流
+
+
+Badge | Uri
+------------ | -------------
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?logo=intellij-idea&logoColor=white&style=for-the-badge"/> | `![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-black?logo=intellij-idea&logoColor=white&style=for-the-badge)`
+<img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white&style=for-the-badge"/> | `![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white&style=for-the-badge)`
+<img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge"/> | `![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)`
+<img src="https://img.shields.io/badge/markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge"/> | `![markdown](https://img.shields.io/badge/markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge)`
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/> | `![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)`
+<img src="https://img.shields.io/badge/BitBucket-darkblue?logo=bitbucket&style=for-the-badge"/> | `![BitBucket](https://img.shields.io/badge/BitBucket-darkblue?logo=bitbucket&style=for-the-badge)`
+<img src="https://img.shields.io/badge/git-black?logo=git&style=for-the-badge"/> | `![Git](https://img.shields.io/badge/git-black?logo=git&style=for-the-badge)`
+<img src="https://img.shields.io/badge/gitlab-330f63.svg?logo=gitlab&logoColor=white&style=for-the-badge"/> | `![gitlab](https://img.shields.io/badge/gitlab-330f63.svg?logo=gitlab&logoColor=white&style=for-the-badge)`
 ### 未分类
 
 
@@ -166,10 +180,14 @@ Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/xamarin%20forms-3498DB.svg?logo=xamarin&logoColor=white&style=for-the-badge"/> | `![xamarin forms](https://img.shields.io/badge/xamarin%20forms-3498DB.svg?logo=xamarin&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/elixir-4B275F.svg?logo=elixir&logoColor=white&style=for-the-badge"/> | `![elixir](https://img.shields.io/badge/elixir-4B275F.svg?logo=elixir&logoColor=white&style=for-the-badge)`
-<img src="https://img.shields.io/badge/markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge"/> | `![markdown](https://img.shields.io/badge/markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/unity-100000.svg?logo=unity&logoColor=white&style=for-the-badge"/> | `![unity](https://img.shields.io/badge/unity-100000.svg?logo=unity&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/sap-0FAAFF?logo=sap&logoColor=white&style=for-the-badge"/> | `![sap](https://img.shields.io/badge/sap-0FAAFF?logo=sap&logoColor=white&style=for-the-badge)`
-<img src="https://img.shields.io/badge/vercel-333?logo=vercel&style=for-the-badge"/> | `![vercel](https://img.shields.io/badge/vercel-333?logo=vercel&style=for-the-badge)`
+<img src="https://img.shields.io/badge/Vercel-333?logo=vercel&style=for-the-badge"/> | `![vercel](https://img.shields.io/badge/Vercel-333?logo=vercel&style=for-the-badge)`
+<img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge"/> | `![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge)`
+<img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge"/> | `![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)`
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge"/> | `![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)`
+<img src="https://img.shields.io/badge/JIRA-0052CC?logo=jira&style=for-the-badge"/> | `![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&style=for-the-badge)`
+<img src="https://img.shields.io/badge/JFrog-41BF47?logo=jfrog&logoColor=white&style=for-the-badge"/> | `![JFrog](https://img.shields.io/badge/JFrog-41BF47?logo=jfrog&logoColor=white&style=for-the-badge)`
 ### 设计
 
 
@@ -185,6 +203,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge"/> | `![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/> | `![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge"/> | `![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)`
+<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white&style=for-the-badge"/> | `![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white&style=for-the-badge)`
 ### 数据库
 
 
@@ -207,6 +226,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/Microsoft%20SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white&style=for-the-badge"/> | `![Microsoft SharePoint](https://img.shields.io/badge/Microsoft%20SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge"/> | `![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/Microsoft%20Visio-3955A3?logo=microsoft-visio&logoColor=white&style=for-the-badge"/> | `![Microsoft Visio](https://img.shields.io/badge/Microsoft%20Visio-3955A3?logo=microsoft-visio&logoColor=white&style=for-the-badge)`
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge"/> | `![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/Microsoft-666666?logo=microsoft&logoColor=white&style=for-the-badge"/> | `![Microsoft](https://img.shields.io/badge/Microsoft-666666?logo=microsoft&logoColor=white&style=for-the-badge)`
 
 ## 🌐 社交媒体
@@ -220,9 +240,9 @@ Badge | Uri
 <img src="https://img.shields.io/badge/github-100000.svg?logo=github&logoColor=white&style=for-the-badge"/> | `![github](https://img.shields.io/badge/github-100000.svg?logo=github&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/reddit-FF4500.svg?logo=reddit&logoColor=white&style=for-the-badge"/> | `![reddit](https://img.shields.io/badge/reddit-FF4500.svg?logo=reddit&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/tiktok-000000.svg?logo=tiktok&style=for-the-badge"/> | `![tiktok](https://img.shields.io/badge/tiktok-000000.svg?logo=tiktok&style=for-the-badge)`
-<img src="https://img.shields.io/badge/gitlab-330f63.svg?logo=gitlab&logoColor=white&style=for-the-badge"/> | `![gitlab](https://img.shields.io/badge/gitlab-330f63.svg?logo=gitlab&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/xda%20developers-F59812?logo=xda-developers&logoColor=white&style=for-the-badge"/> | `![xda](https://img.shields.io/badge/xda%20developers-F59812?logo=xda-developers&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/> | `![stack](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)`
+<img src="https://img.shields.io/badge/Twitch-blueviolet?logo=Twitch&logoColor=white&style=for-the-badge"/> | `![Twitch](https://img.shields.io/badge/Twitch-blueviolet?logo=Twitch&logoColor=white&style=for-the-badge)`
 
 ## 🎶 音乐
 
