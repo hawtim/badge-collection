@@ -1,7 +1,7 @@
 module.exports = {
   Playstation: 'Playstation-003791.svg?logo=playstation&logoColor=white',
   xbox: 'xbox-107C10.svg?logo=xbox&logoColor=white',
-  Switch: 'Switch-E60012.svg?logo=nintendo switch&logoColor=white',
+  Switch: 'Switch-E60012.svg?logo=nintendo-switch&logoColor=white',
   Steam: 'Steam-000000.svg?logo=steam&logoColor=white',
   'counter strike': 'counter strike-000000.svg?logo=counter-strike',
   'Itch.io': 'Itch.io-FA5C5C.svg?logo=itch.io&logoColor=white',
