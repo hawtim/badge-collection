@@ -6,7 +6,7 @@ module.exports = {
   Github: 'Github-100000.svg?logo=github&logoColor=white',
   Reddit: 'Reddit-FF4500.svg?logo=reddit&logoColor=white',
   Tiktok: 'Tiktok-000000.svg?logo=tiktok',
-  XDA: 'XDA%20developers-F59812?logo=xda-developers&logoColor=white',
-  Stack: 'Stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white',
+  XDA: 'XDA developers-F59812?logo=xda-developers&logoColor=white',
+  Stack: 'Stack overflow-FE7A16?logo=stack-overflow&logoColor=white',
   Twitch: 'Twitch-blueviolet?logo=Twitch&logoColor=white'
 }

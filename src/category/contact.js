@@ -4,5 +4,5 @@ module.exports = {
   Messenger: 'Messenger-00B2FF?logo=messenger&logoColor=white',
   Protonmail: 'Protonmail-8B89CC?logo=protonmail&logoColor=white',
   Wechat: 'Wechat-7BB32E?logo=wechat&logoColor=white',
-  QQ: 'QQ-EB1923?logo=tencent%20qq&logoColor=white'
+  QQ: 'QQ-EB1923?logo=tencent qq&logoColor=white'
 }

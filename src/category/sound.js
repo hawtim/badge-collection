@@ -3,10 +3,10 @@ module.exports = {
   deezer: 'deezer-FEAA2D.svg?logo=deezer&logoColor=white',
   audacity: 'audacity-0000CC.svg?logo=audacity&logoColor=white',
   'apple podcasts':
-    'apple%20podcasts-9933CC?logo=apple-podcasts&logoColor=white',
+    'apple podcasts-9933CC?logo=apple-podcasts&logoColor=white',
   'google podcasts':
-    'google%20podcasts-4285F4?logo=google-podcasts&logoColor=white',
-  'youtube music': 'youtube%20music-FF0000?logo=youtube-music&logoColor=white',
-  'apple music': 'apple%20music-000?logo=apple-music&logoColor=white',
+    'google podcasts-4285F4?logo=google-podcasts&logoColor=white',
+  'youtube music': 'youtube music-FF0000?logo=youtube-music&logoColor=white',
+  'apple music': 'apple music-000?logo=apple-music&logoColor=white',
   soundcloud: 'soundcloud-FF3300?logo=soundcloud&logoColor=white'
 }

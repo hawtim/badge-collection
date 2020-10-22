@@ -40,7 +40,7 @@ module.exports = [
       VueJS: 'Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D',
       Angular: 'Angular-DD0031.svg?logo=angular&logoColor=white',
       Angular: 'Angular.js-E23237.svg?logo=angularjs&logoColor=white',
-      Material: 'Material%20ui-0081CB.svg?logo=material-ui&logoColor=white',
+      Material: 'Material ui-0081CB.svg?logo=material-ui&logoColor=white',
       Bootstrap: 'Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white',
       jQuery: 'jQuery-0769AD.svg?logo=jquery&logoColor=white',
       tailwindcss: 'tailwindcss-38B2AC.svg?logo=tailwind-css&logoColor=white',
@@ -55,7 +55,7 @@ module.exports = [
   {
     name: '工作流',
     badges: {
-      IntelliJ: 'IntelliJ%20IDEA-black?logo=intellij-idea&logoColor=white',
+      IntelliJ: 'IntelliJ IDEA-black?logo=intellij-idea&logoColor=white',
       Eclipse: 'Eclipse-2C2255?logo=eclipse&logoColor=white',
       VSCode: 'VSCode-007ACC?logo=visual-studio-code&logoColor=white',
       Markdown: 'Markdown-000000.svg?logo=markdown&logoColor=white',
@@ -69,7 +69,7 @@ module.exports = [
     name: '未分类',
     badges: {
       'xamarin forms':
-        'xamarin%20forms-3498DB.svg?logo=xamarin&logoColor=white',
+        'xamarin forms-3498DB.svg?logo=xamarin&logoColor=white',
       Elixir: 'Elixir-4B275F.svg?logo=elixir&logoColor=white',
       Unity: 'Unity-100000.svg?logo=unity&logoColor=white',
       Sap: 'Sap-0FAAFF?logo=sap&logoColor=white',
@@ -110,12 +110,12 @@ module.exports = [
   {
     name: '云服务',
     badges: {
-      'Google Cloud': 'Google%20Cloud-4285F4?logo=google-cloud&logoColor=white',
-      'Amazon AWS': 'Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white',
+      'Google Cloud': 'Google Cloud-4285F4?logo=google-cloud&logoColor=white',
+      'Amazon AWS': 'Amazon AWS-232F3E?logo=amazon-aws&logoColor=white',
       'Microsoft Azure':
-        'Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white',
+        'Microsoft Azure-0089D6?logo=microsoft-azure&logoColor=white',
       'Oracle Cloud':
-        'Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white'
+        'Oracle Cloud-F80000?style=flat-square&logo=oracle&logoColor=white'
     }
   },
   {
@@ -130,26 +130,26 @@ module.exports = [
   {
     name: 'Microsoft',
     badges: {
-      'Microsoft Teams': 'Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white',
-      'Microsoft Outlook': 'Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white',
+      'Microsoft Teams': 'Microsoft Teams-6264A7?logo=microsoft-teams&logoColor=white',
+      'Microsoft Outlook': 'Microsoft Outlook-0078D4?logo=microsoft-outlook&logoColor=white',
       'Microsoft Excel':
-        'Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white',
+        'Microsoft Excel-217346?logo=microsoft-excel&logoColor=white',
       'Microsoft PowerPoint':
-        'Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white',
+        'Microsoft PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white',
       'Microsoft Access':
-        'Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white',
+        'Microsoft Access-A4373A?logo=microsoft-access&logoColor=white',
       'Microsoft SQL':
-        'Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white',
+        'Microsoft SQL Server-CC2927?logo=microsoft-sql-server&logoColor=white',
       'Microsoft Office':
-        'Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white',
+        'Microsoft Office-D83B01?logo=microsoft-office&logoColor=white',
       'Microsoft SharePoint':
-        'Microsoft%20SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white',
+        'Microsoft SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white',
       'Microsoft Word':
-        'Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white',
+        'Microsoft Word-2B579A?logo=microsoft-word&logoColor=white',
       'Microsoft Visio':
-        'Microsoft%20Visio-3955A3?logo=microsoft-visio&logoColor=white',
+        'Microsoft Visio-3955A3?logo=microsoft-visio&logoColor=white',
       'Microsoft SQL Server':
-        'SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white',
+        'SQL Server-CC2927?logo=microsoft-sql-server&logoColor=white',
       Microsoft: 'Microsoft-666666?logo=microsoft&logoColor=white'
     }
   }
