@@ -68,8 +68,7 @@ module.exports = [
   {
     name: '未分类',
     badges: {
-      'xamarin forms':
-        'xamarin forms-3498DB.svg?logo=xamarin&logoColor=white',
+      'xamarin forms': 'xamarin forms-3498DB.svg?logo=xamarin&logoColor=white',
       Elixir: 'Elixir-4B275F.svg?logo=elixir&logoColor=white',
       Unity: 'Unity-100000.svg?logo=unity&logoColor=white',
       Sap: 'Sap-0FAAFF?logo=sap&logoColor=white',
@@ -84,27 +83,39 @@ module.exports = [
   {
     name: '设计',
     badges: {
-      Sketch: 'Sketch-333?logo=sketch',
+      Sketch: 'Sketch-333?logo=sketch'
     }
   },
   {
     name: 'Adobe',
     badges: {
-      'Adobe Photoshop': 'Adobe Photoshop-31A8FF?logo=Adobe-Photoshop&logoColor=white',
-      'Adobe Premiere Pro': 'Adobe Premiere Pro-EA77FF?logo=Adobe-Premiere-Pro&logoColor=white',
-      'Adobe Dreamweaver': 'Adobe Dreamweaver-FF61F6?logo=Adobe-Dreamweaver&logoColor=white',
+      'Adobe Photoshop':
+        'Adobe Photoshop-31A8FF?logo=Adobe-Photoshop&logoColor=white',
+      'Adobe Premiere Pro':
+        'Adobe Premiere Pro-EA77FF?logo=Adobe-Premiere-Pro&logoColor=white',
+      'Adobe Dreamweaver':
+        'Adobe Dreamweaver-FF61F6?logo=Adobe-Dreamweaver&logoColor=white',
       'Adobe XD': 'Adobe XD-FF26BE?logo=Adobe-XD&logoColor=white',
-      'Adobe InDesign': 'Adobe InDesign-EE3D8F?logo=Adobe-InDesign&logoColor=white',
-      'Adobe Creative Cloud': 'Adobe Creative Cloud-DA1F26?logo=Adobe-Creative-Cloud&logoColor=white',
-      'Adobe Acrobat Reader': 'Adobe Acrobat Reader-EC1C24?logo=Adobe-Acrobat-Reader&logoColor=white',
-      'Adobe': 'Adobe-FF0000?logo=Adobe&logoColor=white',
-      'Adobe Illustrator': 'Adobe Illustrator-FF9A00?logo=Adobe-Illustrator&logoColor=white',
-      'Adobe PhoneGap': 'Adobe PhoneGap-27A1C5?logo=Adobe-PhoneGap&logoColor=white',
-      'Adobe Lightroom CC': 'Adobe Lightroom CC-31A8FF?logo=Adobe-Lightroom-CC&logoColor=white',
-      'Adobe Lightroom Classic': 'Adobe Lightroom Classic-31A8FF?logo=Adobe-Lightroom-Classic&logoColor=white',
-      'Adobe After Effects': 'Adobe After Effects-9999FF?logo=Adobe-After-Effects&logoColor=white',
-      'Adobe Audition': 'Adobe Audition-9999FF?logo=Adobe-Audition&logoColor=white',
-      'Adobe Fonts': 'Adobe Fonts-323232?logo=Adobe-Fonts&logoColor=white',
+      'Adobe InDesign':
+        'Adobe InDesign-EE3D8F?logo=Adobe-InDesign&logoColor=white',
+      'Adobe Creative Cloud':
+        'Adobe Creative Cloud-DA1F26?logo=Adobe-Creative-Cloud&logoColor=white',
+      'Adobe Acrobat Reader':
+        'Adobe Acrobat Reader-EC1C24?logo=Adobe-Acrobat-Reader&logoColor=white',
+      Adobe: 'Adobe-FF0000?logo=Adobe&logoColor=white',
+      'Adobe Illustrator':
+        'Adobe Illustrator-FF9A00?logo=Adobe-Illustrator&logoColor=white',
+      'Adobe PhoneGap':
+        'Adobe PhoneGap-27A1C5?logo=Adobe-PhoneGap&logoColor=white',
+      'Adobe Lightroom CC':
+        'Adobe Lightroom CC-31A8FF?logo=Adobe-Lightroom-CC&logoColor=white',
+      'Adobe Lightroom Classic':
+        'Adobe Lightroom Classic-31A8FF?logo=Adobe-Lightroom-Classic&logoColor=white',
+      'Adobe After Effects':
+        'Adobe After Effects-9999FF?logo=Adobe-After-Effects&logoColor=white',
+      'Adobe Audition':
+        'Adobe Audition-9999FF?logo=Adobe-Audition&logoColor=white',
+      'Adobe Fonts': 'Adobe Fonts-323232?logo=Adobe-Fonts&logoColor=white'
     }
   },
   {
@@ -114,8 +125,7 @@ module.exports = [
       'Amazon AWS': 'Amazon AWS-232F3E?logo=amazon-aws&logoColor=white',
       'Microsoft Azure':
         'Microsoft Azure-0089D6?logo=microsoft-azure&logoColor=white',
-      'Oracle Cloud':
-        'Oracle Cloud-F80000?style=flat-square&logo=oracle&logoColor=white'
+      'Oracle Cloud': 'Oracle Cloud-F80000?logo=oracle&logoColor=white'
     }
   },
   {
@@ -130,8 +140,10 @@ module.exports = [
   {
     name: 'Microsoft',
     badges: {
-      'Microsoft Teams': 'Microsoft Teams-6264A7?logo=microsoft-teams&logoColor=white',
-      'Microsoft Outlook': 'Microsoft Outlook-0078D4?logo=microsoft-outlook&logoColor=white',
+      'Microsoft Teams':
+        'Microsoft Teams-6264A7?logo=microsoft-teams&logoColor=white',
+      'Microsoft Outlook':
+        'Microsoft Outlook-0078D4?logo=microsoft-outlook&logoColor=white',
       'Microsoft Excel':
         'Microsoft Excel-217346?logo=microsoft-excel&logoColor=white',
       'Microsoft PowerPoint':

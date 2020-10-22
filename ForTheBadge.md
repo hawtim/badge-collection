@@ -221,7 +221,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge"/> | `![Google Cloud](https://img.shields.io/badge/Google Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/> | `![Amazon AWS](https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/Microsoft Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge"/> | `![Microsoft Azure](https://img.shields.io/badge/Microsoft Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)`
-<img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat-square&logo=oracle&logoColor=white&style=for-the-badge"/> | `![Oracle Cloud](https://img.shields.io/badge/Oracle Cloud-F80000?style=flat-square&logo=oracle&logoColor=white&style=for-the-badge)`
+<img src="https://img.shields.io/badge/Oracle Cloud-F80000?logo=oracle&logoColor=white&style=for-the-badge"/> | `![Oracle Cloud](https://img.shields.io/badge/Oracle Cloud-F80000?logo=oracle&logoColor=white&style=for-the-badge)`
 ### 数据库
 
 
