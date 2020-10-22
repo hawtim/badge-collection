@@ -1,5 +1,5 @@
 module.exports = {
-  playstation: 'playstation-003791.svg?logo=playstation&logoColor=white',
+  Playstation: 'Playstation-003791.svg?logo=playstation&logoColor=white',
   xbox: 'xbox-107C10.svg?logo=xbox&logoColor=white',
   Switch: 'Switch-E60012.svg?logo=nintendo%20switch&logoColor=white',
   Steam: 'Steam-000000.svg?logo=steam&logoColor=white',

@@ -42,22 +42,21 @@
 
 Badge | Uri
 ------------ | -------------
-<img src="https://img.shields.io/badge/medium-12100E.svg?logo=medium&logoColor=white"/> | `![medium](https://img.shields.io/badge/medium-12100E.svg?logo=medium&logoColor=white)`
+<img src="https://img.shields.io/badge/Medium-12100E.svg?logo=medium&logoColor=white"/> | `![Medium](https://img.shields.io/badge/Medium-12100E.svg?logo=medium&logoColor=white)`
 <img src="https://img.shields.io/badge/DEV.TO-0A0A0A.svg?logo=dev-dot-to&logoColor=white"/> | `![DEV.to](https://img.shields.io/badge/DEV.TO-0A0A0A.svg?logo=dev-dot-to&logoColor=white)`
 <img src="https://img.shields.io/badge/blogger-FF5722.svg?logo=blogger&logoColor=white"/> | `![blogger](https://img.shields.io/badge/blogger-FF5722.svg?logo=blogger&logoColor=white)`
-<img src="https://img.shields.io/badge/rss-FFA500.svg?logo=rss&logoColor=white"/> | `![rss](https://img.shields.io/badge/rss-FFA500.svg?logo=rss&logoColor=white)`
+<img src="https://img.shields.io/badge/RSS-FFA500.svg?logo=rss&logoColor=white"/> | `![RSS](https://img.shields.io/badge/RSS-FFA500.svg?logo=rss&logoColor=white)`
 
 ## 📱 联系方式
 
 Badge | Uri
 ------------ | -------------
-<img src="https://img.shields.io/badge/whatsapp-25D366?logo=whatsapp&logoColor=white"/> | `![whatsapp](https://img.shields.io/badge/whatsapp-25D366?logo=whatsapp&logoColor=white)`
-<img src="https://img.shields.io/badge/gmail-D14836?logo=gmail&logoColor=white"/> | `![gmail](https://img.shields.io/badge/gmail-D14836?logo=gmail&logoColor=white)`
-<img src="https://img.shields.io/badge/messenger-00B2FF?logo=messenger&logoColor=white"/> | `![messenger](https://img.shields.io/badge/messenger-00B2FF?logo=messenger&logoColor=white)`
-<img src="https://img.shields.io/badge/protonmail-8B89CC?logo=protonmail&logoColor=white"/> | `![protonmail](https://img.shields.io/badge/protonmail-8B89CC?logo=protonmail&logoColor=white)`
-<img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white"/> | `![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white)`
-<img src="https://img.shields.io/badge/wechat-7BB32E?logo=wechat&logoColor=white"/> | `![wechat](https://img.shields.io/badge/wechat-7BB32E?logo=wechat&logoColor=white)`
-<img src="https://img.shields.io/badge/qq-EB1923?logo=tencent%20qq&logoColor=white"/> | `![qq](https://img.shields.io/badge/qq-EB1923?logo=tencent%20qq&logoColor=white)`
+<img src="https://img.shields.io/badge/Whatsapp-25D366?logo=whatsapp&logoColor=white"/> | `![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?logo=whatsapp&logoColor=white)`
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/> | `![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)`
+<img src="https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white"/> | `![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white)`
+<img src="https://img.shields.io/badge/Protonmail-8B89CC?logo=protonmail&logoColor=white"/> | `![Protonmail](https://img.shields.io/badge/Protonmail-8B89CC?logo=protonmail&logoColor=white)`
+<img src="https://img.shields.io/badge/Wechat-7BB32E?logo=wechat&logoColor=white"/> | `![Wechat](https://img.shields.io/badge/Wechat-7BB32E?logo=wechat&logoColor=white)`
+<img src="https://img.shields.io/badge/QQ-EB1923?logo=tencent%20qq&logoColor=white"/> | `![QQ](https://img.shields.io/badge/QQ-EB1923?logo=tencent%20qq&logoColor=white)`
 
 ## 🍔 食物
 
@@ -71,17 +70,17 @@ Badge | Uri
 
 Badge | Uri
 ------------ | -------------
-<img src="https://img.shields.io/badge/bitcoin-000000.svg?logo=bitcoin&logoColor=white"/> | `![bitcoin](https://img.shields.io/badge/bitcoin-000000.svg?logo=bitcoin&logoColor=white)`
-<img src="https://img.shields.io/badge/liberapay-F6C915.svg?logo=liberapay&logoColor=black"/> | `![liberapay](https://img.shields.io/badge/liberapay-F6C915.svg?logo=liberapay&logoColor=black)`
-<img src="https://img.shields.io/badge/paypal-00457C.svg?logo=paypal&logoColor=white"/> | `![paypal](https://img.shields.io/badge/paypal-00457C.svg?logo=paypal&logoColor=white)`
+<img src="https://img.shields.io/badge/Bitcoin-000000.svg?logo=bitcoin&logoColor=white"/> | `![Bitcoin](https://img.shields.io/badge/Bitcoin-000000.svg?logo=bitcoin&logoColor=white)`
+<img src="https://img.shields.io/badge/Liberapay-F6C915.svg?logo=liberapay&logoColor=black"/> | `![Liberapay](https://img.shields.io/badge/Liberapay-F6C915.svg?logo=liberapay&logoColor=black)`
+<img src="https://img.shields.io/badge/Paypal-00457C.svg?logo=paypal&logoColor=white"/> | `![Paypal](https://img.shields.io/badge/Paypal-00457C.svg?logo=paypal&logoColor=white)`
 <img src="https://img.shields.io/badge/Kofi-F16061.svg?logo=ko-fi&logoColor=white"/> | `![Kofi](https://img.shields.io/badge/Kofi-F16061.svg?logo=ko-fi&logoColor=white)`
-<img src="https://img.shields.io/badge/patreon-F96854.svg?logo=patreon&logoColor=white"/> | `![patreon](https://img.shields.io/badge/patreon-F96854.svg?logo=patreon&logoColor=white)`
+<img src="https://img.shields.io/badge/Patreon-F96854.svg?logo=patreon&logoColor=white"/> | `![Patreon](https://img.shields.io/badge/Patreon-F96854.svg?logo=patreon&logoColor=white)`
 
 ## 🎮 游戏
 
 Badge | Uri
 ------------ | -------------
-<img src="https://img.shields.io/badge/playstation-003791.svg?logo=playstation&logoColor=white"/> | `![playstation](https://img.shields.io/badge/playstation-003791.svg?logo=playstation&logoColor=white)`
+<img src="https://img.shields.io/badge/Playstation-003791.svg?logo=playstation&logoColor=white"/> | `![Playstation](https://img.shields.io/badge/Playstation-003791.svg?logo=playstation&logoColor=white)`
 <img src="https://img.shields.io/badge/xbox-107C10.svg?logo=xbox&logoColor=white"/> | `![xbox](https://img.shields.io/badge/xbox-107C10.svg?logo=xbox&logoColor=white)`
 <img src="https://img.shields.io/badge/Switch-E60012.svg?logo=nintendo%20switch&logoColor=white"/> | `![Switch](https://img.shields.io/badge/Switch-E60012.svg?logo=nintendo%20switch&logoColor=white)`
 <img src="https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white"/> | `![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white)`
@@ -94,10 +93,10 @@ Badge | Uri
 
 Badge | Uri
 ------------ | -------------
-<img src="https://img.shields.io/badge/slack-4A154B.svg?logo=slack&logoColor=white"/> | `![slack](https://img.shields.io/badge/slack-4A154B.svg?logo=slack&logoColor=white)`
-<img src="https://img.shields.io/badge/discord-7289DA.svg?logo=discord&logoColor=white"/> | `![discord](https://img.shields.io/badge/discord-7289DA.svg?logo=discord&logoColor=white)`
-<img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white"/> | `![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white)`
-<img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white"/> | `![zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)`
+<img src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white"/> | `![Slack](https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white)`
+<img src="https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white"/> | `![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)`
+<img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white"/> | `![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)`
+<img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white"/> | `![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)`
 
 ## 💻 操作系统
 
@@ -115,51 +114,51 @@ Badge | Uri
 
 Badge | Uri
 ------------ | -------------
-<img src="https://img.shields.io/badge/python-14354C.svg?logo=python&logoColor=white"/> | `![python](https://img.shields.io/badge/python-14354C.svg?logo=python&logoColor=white)`
-<img src="https://img.shields.io/badge/html-239120.svg?logo=html5&logoColor=white"/> | `![html](https://img.shields.io/badge/html-239120.svg?logo=html5&logoColor=white)`
-<img src="https://img.shields.io/badge/html5-E34F26.svg?logo=html5&logoColor=white"/> | `![html5](https://img.shields.io/badge/html5-E34F26.svg?logo=html5&logoColor=white)`
-<img src="https://img.shields.io/badge/css-239120.svg?logo=css3&logoColor=white"/> | `![css](https://img.shields.io/badge/css-239120.svg?logo=css3&logoColor=white)`
-<img src="https://img.shields.io/badge/css3-1572B6.svg?logo=css3&logoColor=white"/> | `![css3](https://img.shields.io/badge/css3-1572B6.svg?logo=css3&logoColor=white)`
-<img src="https://img.shields.io/badge/javascript-323330.svg?logo=javascript&logoColor=F7DF1E"/> | `![javascript](https://img.shields.io/badge/javascript-323330.svg?logo=javascript&logoColor=F7DF1E)`
-<img src="https://img.shields.io/badge/typescript-007ACC.svg?logo=typescript&logoColor=white"/> | `![typescript](https://img.shields.io/badge/typescript-007ACC.svg?logo=typescript&logoColor=white)`
-<img src="https://img.shields.io/badge/node.js-43853D.svg?logo=node.js&logoColor=white"/> | `![node](https://img.shields.io/badge/node.js-43853D.svg?logo=node.js&logoColor=white)`
-<img src="https://img.shields.io/badge/c-00599C.svg?logo=c&logoColor=white"/> | `![c](https://img.shields.io/badge/c-00599C.svg?logo=c&logoColor=white)`
-<img src="https://img.shields.io/badge/c++-00599C.svg?logo=c%2B%2B&logoColor=white"/> | `![c++](https://img.shields.io/badge/c++-00599C.svg?logo=c%2B%2B&logoColor=white)`
-<img src="https://img.shields.io/badge/c%23-239120.svg?logo=c-sharp&logoColor=white"/> | `![c#](https://img.shields.io/badge/c%23-239120.svg?logo=c-sharp&logoColor=white)`
-<img src="https://img.shields.io/badge/java-ED8B00.svg?logo=java&logoColor=white"/> | `![java](https://img.shields.io/badge/java-ED8B00.svg?logo=java&logoColor=white)`
-<img src="https://img.shields.io/badge/php-777BB4.svg?logo=php&logoColor=white"/> | `![php](https://img.shields.io/badge/php-777BB4.svg?logo=php&logoColor=white)`
-<img src="https://img.shields.io/badge/r-276DC3.svg?logo=r&logoColor=white"/> | `![r](https://img.shields.io/badge/r-276DC3.svg?logo=r&logoColor=white)`
-<img src="https://img.shields.io/badge/swift-FA7343.svg?logo=swift&logoColor=white"/> | `![swift](https://img.shields.io/badge/swift-FA7343.svg?logo=swift&logoColor=white)`
-<img src="https://img.shields.io/badge/kotlin-0095D5.svg?logo=kotlin&logoColor=white"/> | `![kotlin](https://img.shields.io/badge/kotlin-0095D5.svg?logo=kotlin&logoColor=white)`
-<img src="https://img.shields.io/badge/go-00ADD8.svg?logo=go&logoColor=white"/> | `![go](https://img.shields.io/badge/go-00ADD8.svg?logo=go&logoColor=white)`
-<img src="https://img.shields.io/badge/ruby-CC342D.svg?logo=ruby&logoColor=white"/> | `![ruby](https://img.shields.io/badge/ruby-CC342D.svg?logo=ruby&logoColor=white)`
-<img src="https://img.shields.io/badge/scala-DC322F.svg?logo=scala&logoColor=white"/> | `![scala](https://img.shields.io/badge/scala-DC322F.svg?logo=scala&logoColor=white)`
-<img src="https://img.shields.io/badge/rust-000000.svg?logo=rust&logoColor=white"/> | `![rust](https://img.shields.io/badge/rust-000000.svg?logo=rust&logoColor=white)`
-<img src="https://img.shields.io/badge/dart-0175C2.svg?logo=dart&logoColor=white"/> | `![dart](https://img.shields.io/badge/dart-0175C2.svg?logo=dart&logoColor=white)`
-<img src="https://img.shields.io/badge/lua-2C2D72.svg?logo=lua&logoColor=white"/> | `![lua](https://img.shields.io/badge/lua-2C2D72.svg?logo=lua&logoColor=white)`
-<img src="https://img.shields.io/badge/perl-39457E.svg?logo=perl&logoColor=white"/> | `![perl](https://img.shields.io/badge/perl-39457E.svg?logo=perl&logoColor=white)`
-<img src="https://img.shields.io/badge/flutter-02569B.svg?logo=flutter&logoColor=white"/> | `![flutter](https://img.shields.io/badge/flutter-02569B.svg?logo=flutter&logoColor=white)`
-<img src="https://img.shields.io/badge/shell_script-121011.svg?logo=gnu-bash&logoColor=white"/> | `![shell_script](https://img.shields.io/badge/shell_script-121011.svg?logo=gnu-bash&logoColor=white)`
+<img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/> | `![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)`
+<img src="https://img.shields.io/badge/HTML-239120.svg?logo=html5&logoColor=white"/> | `![HTML](https://img.shields.io/badge/HTML-239120.svg?logo=html5&logoColor=white)`
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white"/> | `![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)`
+<img src="https://img.shields.io/badge/CSS-239120.svg?logo=css3&logoColor=white"/> | `![CSS](https://img.shields.io/badge/CSS-239120.svg?logo=css3&logoColor=white)`
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white"/> | `![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)`
+<img src="https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E"/> | `![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E)`
+<img src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"/> | `![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)`
+<img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"/> | `![Node](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)`
+<img src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white"/> | `![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white)`
+<img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white"/> | `![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)`
+<img src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white"/> | `![C#](https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white)`
+<img src="https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white"/> | `![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white)`
+<img src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"/> | `![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)`
+<img src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"/> | `![R](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)`
+<img src="https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&logoColor=white"/> | `![Swift](https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&logoColor=white)`
+<img src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=kotlin&logoColor=white"/> | `![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?logo=kotlin&logoColor=white)`
+<img src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white"/> | `![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)`
+<img src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"/> | `![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white)`
+<img src="https://img.shields.io/badge/Scala-DC322F.svg?logo=scala&logoColor=white"/> | `![Scala](https://img.shields.io/badge/Scala-DC322F.svg?logo=scala&logoColor=white)`
+<img src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white"/> | `![Rust](https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white)`
+<img src="https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white"/> | `![Dart](https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white)`
+<img src="https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&logoColor=white"/> | `![Lua](https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&logoColor=white)`
+<img src="https://img.shields.io/badge/Perl-39457E.svg?logo=perl&logoColor=white"/> | `![Perl](https://img.shields.io/badge/Perl-39457E.svg?logo=perl&logoColor=white)`
+<img src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"/> | `![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white)`
+<img src="https://img.shields.io/badge/Shell_script-121011.svg?logo=gnu-bash&logoColor=white"/> | `![Shell_script](https://img.shields.io/badge/Shell_script-121011.svg?logo=gnu-bash&logoColor=white)`
 ### 前端库 / 框架
 
 
 Badge | Uri
 ------------ | -------------
-<img src="https://img.shields.io/badge/react-20232a.svg?logo=react&logoColor=61DAFB"/> | `![react](https://img.shields.io/badge/react-20232a.svg?logo=react&logoColor=61DAFB)`
-<img src="https://img.shields.io/badge/redux-593d88.svg?logo=redux&logoColor=white"/> | `![redux](https://img.shields.io/badge/redux-593d88.svg?logo=redux&logoColor=white)`
-<img src="https://img.shields.io/badge/react_native-20232a.svg?logo=react&logoColor=61DAFB"/> | `![react_native](https://img.shields.io/badge/react_native-20232a.svg?logo=react&logoColor=61DAFB)`
-<img src="https://img.shields.io/badge/vuejs-35495e.svg?logo=vue.js&logoColor=4FC08D"/> | `![vuejs](https://img.shields.io/badge/vuejs-35495e.svg?logo=vue.js&logoColor=4FC08D)`
-<img src="https://img.shields.io/badge/angular.js-E23237.svg?logo=angularjs&logoColor=white"/> | `![angular](https://img.shields.io/badge/angular.js-E23237.svg?logo=angularjs&logoColor=white)`
-<img src="https://img.shields.io/badge/material%20ui-0081CB.svg?logo=material-ui&logoColor=white"/> | `![material](https://img.shields.io/badge/material%20ui-0081CB.svg?logo=material-ui&logoColor=white)`
-<img src="https://img.shields.io/badge/bootstrap-563D7C.svg?logo=bootstrap&logoColor=white"/> | `![bootstrap](https://img.shields.io/badge/bootstrap-563D7C.svg?logo=bootstrap&logoColor=white)`
-<img src="https://img.shields.io/badge/jquery-0769AD.svg?logo=jquery&logoColor=white"/> | `![jquery](https://img.shields.io/badge/jquery-0769AD.svg?logo=jquery&logoColor=white)`
+<img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB"/> | `![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB)`
+<img src="https://img.shields.io/badge/Redux-593d88.svg?logo=redux&logoColor=white"/> | `![Redux](https://img.shields.io/badge/Redux-593d88.svg?logo=redux&logoColor=white)`
+<img src="https://img.shields.io/badge/React_Native-20232a.svg?logo=react&logoColor=61DAFB"/> | `![React_Native](https://img.shields.io/badge/React_Native-20232a.svg?logo=react&logoColor=61DAFB)`
+<img src="https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D"/> | `![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D)`
+<img src="https://img.shields.io/badge/Angular.js-E23237.svg?logo=angularjs&logoColor=white"/> | `![Angular](https://img.shields.io/badge/Angular.js-E23237.svg?logo=angularjs&logoColor=white)`
+<img src="https://img.shields.io/badge/Material%20ui-0081CB.svg?logo=material-ui&logoColor=white"/> | `![Material](https://img.shields.io/badge/Material%20ui-0081CB.svg?logo=material-ui&logoColor=white)`
+<img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white"/> | `![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white)`
+<img src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white"/> | `![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white)`
 <img src="https://img.shields.io/badge/tailwindcss-38B2AC.svg?logo=tailwind-css&logoColor=white"/> | `![tailwindcss](https://img.shields.io/badge/tailwindcss-38B2AC.svg?logo=tailwind-css&logoColor=white)`
-<img src="https://img.shields.io/badge/django-092E20.svg?logo=django&logoColor=white"/> | `![django](https://img.shields.io/badge/django-092E20.svg?logo=django&logoColor=white)`
-<img src="https://img.shields.io/badge/rails-CC0000.svg?logo=ruby-on-rails&logoColor=white"/> | `![rails](https://img.shields.io/badge/rails-CC0000.svg?logo=ruby-on-rails&logoColor=white)`
-<img src="https://img.shields.io/badge/laravel-FF2D20.svg?logo=laravel&logoColor=white"/> | `![laravel](https://img.shields.io/badge/laravel-FF2D20.svg?logo=laravel&logoColor=white)`
-<img src="https://img.shields.io/badge/spring-6DB33F.svg?logo=spring&logoColor=white"/> | `![spring](https://img.shields.io/badge/spring-6DB33F.svg?logo=spring&logoColor=white)`
-<img src="https://img.shields.io/badge/flask-000.svg?logo=flask&logoColor=white"/> | `![flask](https://img.shields.io/badge/flask-000.svg?logo=flask&logoColor=white)`
-<img src="https://img.shields.io/badge/sencha-86BC40?logo=sencha&logoColor=white"/> | `![sencha](https://img.shields.io/badge/sencha-86BC40?logo=sencha&logoColor=white)`
+<img src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"/> | `![Django](https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white)`
+<img src="https://img.shields.io/badge/Rails-CC0000.svg?logo=ruby-on-rails&logoColor=white"/> | `![Rails](https://img.shields.io/badge/Rails-CC0000.svg?logo=ruby-on-rails&logoColor=white)`
+<img src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white"/> | `![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white)`
+<img src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white"/> | `![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white)`
+<img src="https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white"/> | `![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white)`
+<img src="https://img.shields.io/badge/Sencha-86BC40?logo=sencha&logoColor=white"/> | `![Sencha](https://img.shields.io/badge/Sencha-86BC40?logo=sencha&logoColor=white)`
 ### 工作流
 
 
@@ -168,21 +167,21 @@ Badge | Uri
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?logo=intellij-idea&logoColor=white"/> | `![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-black?logo=intellij-idea&logoColor=white)`
 <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"/> | `![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)`
 <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white"/> | `![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)`
-<img src="https://img.shields.io/badge/markdown-000000.svg?logo=markdown&logoColor=white"/> | `![markdown](https://img.shields.io/badge/markdown-000000.svg?logo=markdown&logoColor=white)`
+<img src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"/> | `![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)`
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/> | `![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)`
 <img src="https://img.shields.io/badge/BitBucket-darkblue?logo=bitbucket"/> | `![BitBucket](https://img.shields.io/badge/BitBucket-darkblue?logo=bitbucket)`
-<img src="https://img.shields.io/badge/git-black?logo=git"/> | `![Git](https://img.shields.io/badge/git-black?logo=git)`
-<img src="https://img.shields.io/badge/gitlab-330f63.svg?logo=gitlab&logoColor=white"/> | `![gitlab](https://img.shields.io/badge/gitlab-330f63.svg?logo=gitlab&logoColor=white)`
+<img src="https://img.shields.io/badge/Git-black?logo=git"/> | `![Git](https://img.shields.io/badge/Git-black?logo=git)`
+<img src="https://img.shields.io/badge/Gitlab-330f63.svg?logo=gitlab&logoColor=white"/> | `![gitlab](https://img.shields.io/badge/Gitlab-330f63.svg?logo=gitlab&logoColor=white)`
 ### 未分类
 
 
 Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/xamarin%20forms-3498DB.svg?logo=xamarin&logoColor=white"/> | `![xamarin forms](https://img.shields.io/badge/xamarin%20forms-3498DB.svg?logo=xamarin&logoColor=white)`
-<img src="https://img.shields.io/badge/elixir-4B275F.svg?logo=elixir&logoColor=white"/> | `![elixir](https://img.shields.io/badge/elixir-4B275F.svg?logo=elixir&logoColor=white)`
-<img src="https://img.shields.io/badge/unity-100000.svg?logo=unity&logoColor=white"/> | `![unity](https://img.shields.io/badge/unity-100000.svg?logo=unity&logoColor=white)`
-<img src="https://img.shields.io/badge/sap-0FAAFF?logo=sap&logoColor=white"/> | `![sap](https://img.shields.io/badge/sap-0FAAFF?logo=sap&logoColor=white)`
-<img src="https://img.shields.io/badge/Vercel-333?logo=vercel"/> | `![vercel](https://img.shields.io/badge/Vercel-333?logo=vercel)`
+<img src="https://img.shields.io/badge/Elixir-4B275F.svg?logo=elixir&logoColor=white"/> | `![Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?logo=elixir&logoColor=white)`
+<img src="https://img.shields.io/badge/Unity-100000.svg?logo=unity&logoColor=white"/> | `![Unity](https://img.shields.io/badge/Unity-100000.svg?logo=unity&logoColor=white)`
+<img src="https://img.shields.io/badge/Sap-0FAAFF?logo=sap&logoColor=white"/> | `![Sap](https://img.shields.io/badge/Sap-0FAAFF?logo=sap&logoColor=white)`
+<img src="https://img.shields.io/badge/Vercel-333?logo=vercel"/> | `![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel)`
 <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white"/> | `![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)`
 <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white"/> | `![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)`
 <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white"/> | `![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)`
@@ -193,8 +192,27 @@ Badge | Uri
 
 Badge | Uri
 ------------ | -------------
-<img src="https://img.shields.io/badge/photoshop-333?logo=adobe-photoshop"/> | `![photoshop](https://img.shields.io/badge/photoshop-333?logo=adobe-photoshop)`
-<img src="https://img.shields.io/badge/sketch-333?logo=sketch"/> | `![sketch](https://img.shields.io/badge/sketch-333?logo=sketch)`
+<img src="https://img.shields.io/badge/Sketch-333?logo=sketch"/> | `![Sketch](https://img.shields.io/badge/Sketch-333?logo=sketch)`
+### Adobe
+
+
+Badge | Uri
+------------ | -------------
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white"/> | `![Adobe Photoshop](https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white)`
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-EA77FF?logo=Adobe Premiere Pro&logoColor=white"/> | `![Adobe Premiere Pro](https://img.shields.io/badge/Adobe Premiere Pro-EA77FF?logo=Adobe Premiere Pro&logoColor=white)`
+<img src="https://img.shields.io/badge/Adobe Dreamweaver-FF61F6?logo=Adobe Dreamweaver&logoColor=white"/> | `![Adobe Dreamweaver](https://img.shields.io/badge/Adobe Dreamweaver-FF61F6?logo=Adobe Dreamweaver&logoColor=white)`
+<img src="https://img.shields.io/badge/Adobe XD-FF26BE?logo=Adobe XD&logoColor=white"/> | `![Adobe XD](https://img.shields.io/badge/Adobe XD-FF26BE?logo=Adobe XD&logoColor=white)`
+<img src="https://img.shields.io/badge/Adobe InDesign-EE3D8F?logo=Adobe InDesign&logoColor=white"/> | `![Adobe InDesign](https://img.shields.io/badge/Adobe InDesign-EE3D8F?logo=Adobe InDesign&logoColor=white)`
+<img src="https://img.shields.io/badge/Adobe Creative Cloud-DA1F26?logo=Adobe Creative Cloud&logoColor=white"/> | `![Adobe Creative Cloud](https://img.shields.io/badge/Adobe Creative Cloud-DA1F26?logo=Adobe Creative Cloud&logoColor=white)`
+<img src="https://img.shields.io/badge/Adobe Acrobat Reader-EC1C24?logo=Adobe Acrobat Reader&logoColor=white"/> | `![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe Acrobat Reader-EC1C24?logo=Adobe Acrobat Reader&logoColor=white)`
+<img src="https://img.shields.io/badge/Adobe-FF0000?logo=Adobe&logoColor=white"/> | `![Adobe](https://img.shields.io/badge/Adobe-FF0000?logo=Adobe&logoColor=white)`
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=Adobe Illustrator&logoColor=white"/> | `![Adobe Illustrator](https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=Adobe Illustrator&logoColor=white)`
+<img src="https://img.shields.io/badge/Adobe PhoneGap-27A1C5?logo=Adobe PhoneGap&logoColor=white"/> | `![Adobe PhoneGap](https://img.shields.io/badge/Adobe PhoneGap-27A1C5?logo=Adobe PhoneGap&logoColor=white)`
+<img src="https://img.shields.io/badge/Adobe Lightroom CC-31A8FF?logo=Adobe Lightroom CC&logoColor=white"/> | `![Adobe Lightroom CC](https://img.shields.io/badge/Adobe Lightroom CC-31A8FF?logo=Adobe Lightroom CC&logoColor=white)`
+<img src="https://img.shields.io/badge/Adobe Lightroom Classic-31A8FF?logo=Adobe Lightroom Classic&logoColor=white"/> | `![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe Lightroom Classic-31A8FF?logo=Adobe Lightroom Classic&logoColor=white)`
+<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=Adobe After Effects&logoColor=white"/> | `![Adobe After Effects](https://img.shields.io/badge/Adobe After Effects-9999FF?logo=Adobe After Effects&logoColor=white)`
+<img src="https://img.shields.io/badge/Adobe Audition-9999FF?logo=Adobe Audition&logoColor=white"/> | `![Adobe Audition](https://img.shields.io/badge/Adobe Audition-9999FF?logo=Adobe Audition&logoColor=white)`
+<img src="https://img.shields.io/badge/Adobe Fonts-323232?logo=Adobe Fonts&logoColor=white"/> | `![Adobe Fonts](https://img.shields.io/badge/Adobe Fonts-323232?logo=Adobe Fonts&logoColor=white)`
 ### 云服务
 
 
@@ -218,6 +236,8 @@ Badge | Uri
 
 Badge | Uri
 ------------ | -------------
+<img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white"/> | `![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white)`
+<img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white"/> | `![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white)`
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white"/> | `![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)`
 <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white"/> | `![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)`
 <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white"/> | `![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white)`
@@ -233,15 +253,15 @@ Badge | Uri
 
 Badge | Uri
 ------------ | -------------
-<img src="https://img.shields.io/badge/facebook-1877F2.svg?logo=facebook&logoColor=white"/> | `![facebook](https://img.shields.io/badge/facebook-1877F2.svg?logo=facebook&logoColor=white)`
-<img src="https://img.shields.io/badge/instagram-E4405F.svg?logo=instagram&logoColor=white"/> | `![instagram](https://img.shields.io/badge/instagram-E4405F.svg?logo=instagram&logoColor=white)`
-<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?logo=twitter&logoColor=white"/> | `![twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?logo=twitter&logoColor=white)`
-<img src="https://img.shields.io/badge/linkedin-0077B5.svg?logo=linkedin&logoColor=white"/> | `![linkedin](https://img.shields.io/badge/linkedin-0077B5.svg?logo=linkedin&logoColor=white)`
-<img src="https://img.shields.io/badge/github-100000.svg?logo=github&logoColor=white"/> | `![github](https://img.shields.io/badge/github-100000.svg?logo=github&logoColor=white)`
-<img src="https://img.shields.io/badge/reddit-FF4500.svg?logo=reddit&logoColor=white"/> | `![reddit](https://img.shields.io/badge/reddit-FF4500.svg?logo=reddit&logoColor=white)`
-<img src="https://img.shields.io/badge/tiktok-000000.svg?logo=tiktok"/> | `![tiktok](https://img.shields.io/badge/tiktok-000000.svg?logo=tiktok)`
-<img src="https://img.shields.io/badge/xda%20developers-F59812?logo=xda-developers&logoColor=white"/> | `![xda](https://img.shields.io/badge/xda%20developers-F59812?logo=xda-developers&logoColor=white)`
-<img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white"/> | `![stack](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white)`
+<img src="https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white"/> | `![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white)`
+<img src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white"/> | `![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)`
+<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white"/> | `![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white)`
+<img src="https://img.shields.io/badge/Linkedin-0077B5.svg?logo=linkedin&logoColor=white"/> | `![Linkedin](https://img.shields.io/badge/Linkedin-0077B5.svg?logo=linkedin&logoColor=white)`
+<img src="https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white"/> | `![Github](https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white)`
+<img src="https://img.shields.io/badge/Reddit-FF4500.svg?logo=reddit&logoColor=white"/> | `![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?logo=reddit&logoColor=white)`
+<img src="https://img.shields.io/badge/Tiktok-000000.svg?logo=tiktok"/> | `![Tiktok](https://img.shields.io/badge/Tiktok-000000.svg?logo=tiktok)`
+<img src="https://img.shields.io/badge/XDA%20developers-F59812?logo=xda-developers&logoColor=white"/> | `![XDA](https://img.shields.io/badge/XDA%20developers-F59812?logo=xda-developers&logoColor=white)`
+<img src="https://img.shields.io/badge/Stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white"/> | `![Stack](https://img.shields.io/badge/Stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white)`
 <img src="https://img.shields.io/badge/Twitch-blueviolet?logo=Twitch&logoColor=white"/> | `![Twitch](https://img.shields.io/badge/Twitch-blueviolet?logo=Twitch&logoColor=white)`
 
 ## 🎶 音乐
@@ -254,6 +274,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/apple%20podcasts-9933CC?logo=apple-podcasts&logoColor=white"/> | `![apple podcasts](https://img.shields.io/badge/apple%20podcasts-9933CC?logo=apple-podcasts&logoColor=white)`
 <img src="https://img.shields.io/badge/google%20podcasts-4285F4?logo=google-podcasts&logoColor=white"/> | `![google podcasts](https://img.shields.io/badge/google%20podcasts-4285F4?logo=google-podcasts&logoColor=white)`
 <img src="https://img.shields.io/badge/youtube%20music-FF0000?logo=youtube-music&logoColor=white"/> | `![youtube music](https://img.shields.io/badge/youtube%20music-FF0000?logo=youtube-music&logoColor=white)`
+<img src="https://img.shields.io/badge/apple%20music-000?logo=apple-music&logoColor=white"/> | `![apple music](https://img.shields.io/badge/apple%20music-000?logo=apple-music&logoColor=white)`
 <img src="https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white"/> | `![soundcloud](https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white)`
 
 ## 🛒 App商店
@@ -267,9 +288,9 @@ Badge | Uri
 
 Badge | Uri
 ------------ | -------------
-<img src="https://img.shields.io/badge/youtube%20gaming-FF0000?logo=youtube-gaming&logoColor=white"/> | `![youtube](https://img.shields.io/badge/youtube%20gaming-FF0000?logo=youtube-gaming&logoColor=white)`
-<img src="https://img.shields.io/badge/twitch-9146FF.svg?logo=twitch&logoColor=white"/> | `![twitch](https://img.shields.io/badge/twitch-9146FF.svg?logo=twitch&logoColor=white)`
-<img src="https://img.shields.io/badge/facebook%20gaming-005FED?logo=facebook-gaming&logoColor=white"/> | `![facebook](https://img.shields.io/badge/facebook%20gaming-005FED?logo=facebook-gaming&logoColor=white)`
+<img src="https://img.shields.io/badge/Youtube%20gaming-FF0000?logo=youtube-gaming&logoColor=white"/> | `![Youtube](https://img.shields.io/badge/Youtube%20gaming-FF0000?logo=youtube-gaming&logoColor=white)`
+<img src="https://img.shields.io/badge/Twitch-9146FF.svg?logo=twitch&logoColor=white"/> | `![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?logo=twitch&logoColor=white)`
+<img src="https://img.shields.io/badge/Facebook%20gaming-005FED?logo=facebook-gaming&logoColor=white"/> | `![Facebook](https://img.shields.io/badge/Facebook%20gaming-005FED?logo=facebook-gaming&logoColor=white)`
 <img src="https://img.shields.io/badge/Crunchyroll-F47521?logo=Crunchyroll&logoColor=white"/> | `![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?logo=Crunchyroll&logoColor=white)`
 <img src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white"/> | `![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)`
 

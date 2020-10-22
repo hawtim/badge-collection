@@ -7,5 +7,6 @@ module.exports = {
   'google podcasts':
     'google%20podcasts-4285F4?logo=google-podcasts&logoColor=white',
   'youtube music': 'youtube%20music-FF0000?logo=youtube-music&logoColor=white',
+  'apple music': 'apple%20music-000?logo=apple-music&logoColor=white',
   soundcloud: 'soundcloud-FF3300?logo=soundcloud&logoColor=white'
 }

@@ -2,54 +2,54 @@ module.exports = [
   {
     name: '编程语言',
     badges: {
-      python: 'python-3776AB.svg?logo=python&logoColor=white',
-      python: 'python-14354C.svg?logo=python&logoColor=white',
-      html: 'html-239120.svg?logo=html5&logoColor=white',
-      html5: 'html5-E34F26.svg?logo=html5&logoColor=white',
-      css: 'css-239120.svg?logo=css3&logoColor=white',
-      css3: 'css3-1572B6.svg?logo=css3&logoColor=white',
-      javascript: 'javascript-F7DF1E.svg?logo=javascript&logoColor=black',
-      javascript: 'javascript-323330.svg?logo=javascript&logoColor=F7DF1E',
-      typescript: 'typescript-007ACC.svg?logo=typescript&logoColor=white',
-      node: 'node.js-43853D.svg?logo=node.js&logoColor=white',
-      c: 'c-00599C.svg?logo=c&logoColor=white',
-      'c++': 'c++-00599C.svg?logo=c%2B%2B&logoColor=white',
-      'c#': 'c%23-239120.svg?logo=c-sharp&logoColor=white',
-      java: 'java-ED8B00.svg?logo=java&logoColor=white',
-      php: 'php-777BB4.svg?logo=php&logoColor=white',
-      r: 'r-276DC3.svg?logo=r&logoColor=white',
-      swift: 'swift-FA7343.svg?logo=swift&logoColor=white',
-      kotlin: 'kotlin-0095D5.svg?logo=kotlin&logoColor=white',
-      go: 'go-00ADD8.svg?logo=go&logoColor=white',
-      ruby: 'ruby-CC342D.svg?logo=ruby&logoColor=white',
-      scala: 'scala-DC322F.svg?logo=scala&logoColor=white',
-      rust: 'rust-000000.svg?logo=rust&logoColor=white',
-      dart: 'dart-0175C2.svg?logo=dart&logoColor=white',
-      lua: 'lua-2C2D72.svg?logo=lua&logoColor=white',
-      perl: 'perl-39457E.svg?logo=perl&logoColor=white',
-      flutter: 'flutter-02569B.svg?logo=flutter&logoColor=white',
-      shell_script: 'shell_script-121011.svg?logo=gnu-bash&logoColor=white'
+      Python: 'Python-3776AB.svg?logo=python&logoColor=white',
+      Python: 'Python-14354C.svg?logo=python&logoColor=white',
+      HTML: 'HTML-239120.svg?logo=html5&logoColor=white',
+      HTML5: 'HTML5-E34F26.svg?logo=html5&logoColor=white',
+      CSS: 'CSS-239120.svg?logo=css3&logoColor=white',
+      CSS3: 'CSS3-1572B6.svg?logo=css3&logoColor=white',
+      JavaScript: 'JavaScript-F7DF1E.svg?logo=javascript&logoColor=black',
+      JavaScript: 'JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E',
+      TypeScript: 'TypeScript-007ACC.svg?logo=typescript&logoColor=white',
+      Node: 'Node.js-43853D.svg?logo=node.js&logoColor=white',
+      C: 'C-00599C.svg?logo=c&logoColor=white',
+      'C++': 'C++-00599C.svg?logo=c%2B%2B&logoColor=white',
+      'C#': 'C%23-239120.svg?logo=c-sharp&logoColor=white',
+      Java: 'Java-ED8B00.svg?logo=java&logoColor=white',
+      PHP: 'PHP-777BB4.svg?logo=php&logoColor=white',
+      R: 'R-276DC3.svg?logo=r&logoColor=white',
+      Swift: 'Swift-FA7343.svg?logo=swift&logoColor=white',
+      Kotlin: 'Kotlin-0095D5.svg?logo=kotlin&logoColor=white',
+      Go: 'Go-00ADD8.svg?logo=go&logoColor=white',
+      Ruby: 'Ruby-CC342D.svg?logo=ruby&logoColor=white',
+      Scala: 'Scala-DC322F.svg?logo=scala&logoColor=white',
+      Rust: 'Rust-000000.svg?logo=rust&logoColor=white',
+      Dart: 'Dart-0175C2.svg?logo=dart&logoColor=white',
+      Lua: 'Lua-2C2D72.svg?logo=lua&logoColor=white',
+      Perl: 'Perl-39457E.svg?logo=perl&logoColor=white',
+      Flutter: 'Flutter-02569B.svg?logo=flutter&logoColor=white',
+      Shell_script: 'Shell_script-121011.svg?logo=gnu-bash&logoColor=white'
     }
   },
   {
     name: '前端库 / 框架',
     badges: {
-      react: 'react-20232a.svg?logo=react&logoColor=61DAFB',
-      redux: 'redux-593d88.svg?logo=redux&logoColor=white',
-      react_native: 'react_native-20232a.svg?logo=react&logoColor=61DAFB',
-      vuejs: 'vuejs-35495e.svg?logo=vue.js&logoColor=4FC08D',
-      angular: 'angular-DD0031.svg?logo=angular&logoColor=white',
-      angular: 'angular.js-E23237.svg?logo=angularjs&logoColor=white',
-      material: 'material%20ui-0081CB.svg?logo=material-ui&logoColor=white',
-      bootstrap: 'bootstrap-563D7C.svg?logo=bootstrap&logoColor=white',
-      jquery: 'jquery-0769AD.svg?logo=jquery&logoColor=white',
+      React: 'React-20232a.svg?logo=react&logoColor=61DAFB',
+      Redux: 'Redux-593d88.svg?logo=redux&logoColor=white',
+      React_Native: 'React_Native-20232a.svg?logo=react&logoColor=61DAFB',
+      VueJS: 'Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D',
+      Angular: 'Angular-DD0031.svg?logo=angular&logoColor=white',
+      Angular: 'Angular.js-E23237.svg?logo=angularjs&logoColor=white',
+      Material: 'Material%20ui-0081CB.svg?logo=material-ui&logoColor=white',
+      Bootstrap: 'Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white',
+      jQuery: 'jQuery-0769AD.svg?logo=jquery&logoColor=white',
       tailwindcss: 'tailwindcss-38B2AC.svg?logo=tailwind-css&logoColor=white',
-      django: 'django-092E20.svg?logo=django&logoColor=white',
-      rails: 'rails-CC0000.svg?logo=ruby-on-rails&logoColor=white',
-      laravel: 'laravel-FF2D20.svg?logo=laravel&logoColor=white',
-      spring: 'spring-6DB33F.svg?logo=spring&logoColor=white',
-      flask: 'flask-000.svg?logo=flask&logoColor=white',
-      sencha: 'sencha-86BC40?logo=sencha&logoColor=white'
+      Django: 'Django-092E20.svg?logo=django&logoColor=white',
+      Rails: 'Rails-CC0000.svg?logo=ruby-on-rails&logoColor=white',
+      Laravel: 'Laravel-FF2D20.svg?logo=laravel&logoColor=white',
+      Spring: 'Spring-6DB33F.svg?logo=spring&logoColor=white',
+      Flask: 'Flask-000.svg?logo=flask&logoColor=white',
+      Sencha: 'Sencha-86BC40?logo=sencha&logoColor=white'
     }
   },
   {
@@ -58,11 +58,11 @@ module.exports = [
       IntelliJ: 'IntelliJ%20IDEA-black?logo=intellij-idea&logoColor=white',
       Eclipse: 'Eclipse-2C2255?logo=eclipse&logoColor=white',
       VSCode: 'VSCode-007ACC?logo=visual-studio-code&logoColor=white',
-      markdown: 'markdown-000000.svg?logo=markdown&logoColor=white',
+      Markdown: 'Markdown-000000.svg?logo=markdown&logoColor=white',
       Docker: 'Docker-2496ED?logo=docker&logoColor=white',
       BitBucket: 'BitBucket-darkblue?logo=bitbucket',
-      Git: 'git-black?logo=git',
-      gitlab: 'gitlab-330f63.svg?logo=gitlab&logoColor=white'
+      Git: 'Git-black?logo=git',
+      gitlab: 'Gitlab-330f63.svg?logo=gitlab&logoColor=white'
     }
   },
   {
@@ -70,10 +70,10 @@ module.exports = [
     badges: {
       'xamarin forms':
         'xamarin%20forms-3498DB.svg?logo=xamarin&logoColor=white',
-      elixir: 'elixir-4B275F.svg?logo=elixir&logoColor=white',
-      unity: 'unity-100000.svg?logo=unity&logoColor=white',
-      sap: 'sap-0FAAFF?logo=sap&logoColor=white',
-      vercel: 'Vercel-333?logo=vercel',
+      Elixir: 'Elixir-4B275F.svg?logo=elixir&logoColor=white',
+      Unity: 'Unity-100000.svg?logo=unity&logoColor=white',
+      Sap: 'Sap-0FAAFF?logo=sap&logoColor=white',
+      Vercel: 'Vercel-333?logo=vercel',
       Ionic: 'Ionic-3880FF?logo=ionic&logoColor=white',
       NestJS: 'NestJS-E0234E?logo=nestjs&logoColor=white',
       Firebase: 'Firebase-FFCA28?logo=firebase&logoColor=white',
@@ -84,8 +84,27 @@ module.exports = [
   {
     name: '设计',
     badges: {
-      photoshop: 'photoshop-333?logo=adobe-photoshop',
-      sketch: 'sketch-333?logo=sketch'
+      Sketch: 'Sketch-333?logo=sketch',
+    }
+  },
+  {
+    name: 'Adobe',
+    badges: {
+      'Adobe Photoshop': 'Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white',
+      'Adobe Premiere Pro': 'Adobe Premiere Pro-EA77FF?logo=Adobe Premiere Pro&logoColor=white',
+      'Adobe Dreamweaver': 'Adobe Dreamweaver-FF61F6?logo=Adobe Dreamweaver&logoColor=white',
+      'Adobe XD': 'Adobe XD-FF26BE?logo=Adobe XD&logoColor=white',
+      'Adobe InDesign': 'Adobe InDesign-EE3D8F?logo=Adobe InDesign&logoColor=white',
+      'Adobe Creative Cloud': 'Adobe Creative Cloud-DA1F26?logo=Adobe Creative Cloud&logoColor=white',
+      'Adobe Acrobat Reader': 'Adobe Acrobat Reader-EC1C24?logo=Adobe Acrobat Reader&logoColor=white',
+      'Adobe': 'Adobe-FF0000?logo=Adobe&logoColor=white',
+      'Adobe Illustrator': 'Adobe Illustrator-FF9A00?logo=Adobe Illustrator&logoColor=white',
+      'Adobe PhoneGap': 'Adobe PhoneGap-27A1C5?logo=Adobe PhoneGap&logoColor=white',
+      'Adobe Lightroom CC': 'Adobe Lightroom CC-31A8FF?logo=Adobe Lightroom CC&logoColor=white',
+      'Adobe Lightroom Classic': 'Adobe Lightroom Classic-31A8FF?logo=Adobe Lightroom Classic&logoColor=white',
+      'Adobe After Effects': 'Adobe After Effects-9999FF?logo=Adobe After Effects&logoColor=white',
+      'Adobe Audition': 'Adobe Audition-9999FF?logo=Adobe Audition&logoColor=white',
+      'Adobe Fonts': 'Adobe Fonts-323232?logo=Adobe Fonts&logoColor=white',
     }
   },
   {
@@ -111,6 +130,8 @@ module.exports = [
   {
     name: 'Microsoft',
     badges: {
+      'Microsoft Teams': 'Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white',
+      'Microsoft Outlook': 'Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white',
       'Microsoft Excel':
         'Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white',
       'Microsoft PowerPoint':

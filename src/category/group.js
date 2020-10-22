@@ -1,7 +1,6 @@
 module.exports = {
-  slack: 'slack-4A154B.svg?logo=slack&logoColor=white',
-  discord: 'discord-7289DA.svg?logo=discord&logoColor=white',
-  'Microsoft Teams':
-    'Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white',
-  zoom: 'Zoom-2D8CFF?logo=zoom&logoColor=white'
+  Slack: 'Slack-4A154B.svg?logo=slack&logoColor=white',
+  Discord: 'Discord-7289DA.svg?logo=discord&logoColor=white',
+  Telegram: 'Telegram-2CA5E0.svg?logo=telegram&logoColor=white',
+  Zoom: 'Zoom-2D8CFF?logo=zoom&logoColor=white'
 }
