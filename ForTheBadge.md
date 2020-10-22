@@ -56,7 +56,7 @@ Badge | Uri
 <img src="https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white&style=for-the-badge"/> | `![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/Protonmail-8B89CC?logo=protonmail&logoColor=white&style=for-the-badge"/> | `![Protonmail](https://img.shields.io/badge/Protonmail-8B89CC?logo=protonmail&logoColor=white&style=for-the-badge)`
 <img src="https://img.shields.io/badge/Wechat-7BB32E?logo=wechat&logoColor=white&style=for-the-badge"/> | `![Wechat](https://img.shields.io/badge/Wechat-7BB32E?logo=wechat&logoColor=white&style=for-the-badge)`
-<img src="https://img.shields.io/badge/QQ-EB1923?logo=tencent qq&logoColor=white&style=for-the-badge"/> | `![QQ](https://img.shields.io/badge/QQ-EB1923?logo=tencent qq&logoColor=white&style=for-the-badge)`
+<img src="https://img.shields.io/badge/QQ-EB1923?logo=tencent-qq&logoColor=white&style=for-the-badge"/> | `![QQ](https://img.shields.io/badge/QQ-EB1923?logo=tencent-qq&logoColor=white&style=for-the-badge)`
 
 ## 🍔 食物
 
